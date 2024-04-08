@@ -2,8 +2,23 @@
     margin: 0;
     padding: 0;
 }
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  body{
+    font-family: "Poppins", sans-serif;
+  }
 .cabecalho{
-    background-color: #ceb38ac4;
+    background-color: #947c59c4;
     color:rgb(3, 12, 19);
     display: flex;
     justify-content: space-around;
@@ -25,4 +40,14 @@ padding: 0 25px;
 }
 .cabecalho-titulo{
     padding: 20px 0;
+}
+.destino-imgagem{
+    width: 220px;
+}
+.destino-icone{
+    width: 24px; 
+}
+.destino-div{
+    text-align: center;
+    padding: 16px 0;
 }
