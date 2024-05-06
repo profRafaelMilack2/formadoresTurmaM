@@ -42,7 +42,7 @@ padding: 0 25px;
     padding: 20px 0;
 }
 .destino-imgagem{
-    width: 220px;
+    width: 50px;
 }
 .destino-icone{
     width: 24px; 
@@ -50,4 +50,16 @@ padding: 0 25px;
 .destino-div{
     text-align: center;
     padding: 16px 0;
+}
+.destino-título{
+  text-align: center;
+  padding: 25px 0;
+}
+.rodape{
+  background-color: rgba(100, 64, 30, 0.712);
+  text-align: center;
+}
+.rodape-imagem {
+  height: 60px;
+  padding: 12px 0;
 }
